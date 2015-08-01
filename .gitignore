@@ -1,0 +1,5 @@
+.idea/
+/my-app/tmp
+/my-app/node_modules
+/my-app/bower_components
+/my-app/vendor
